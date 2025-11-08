@@ -59,6 +59,7 @@ BSc Computer Science — The Co-operative University of Kenya
 
 📧 [burningtonemwatha1@gmail.com](mailto:burningtonemwatha1@gmail.com)
 
-🌐 [LinkedIn Profile](linkedin.com/in/burningtone-mwatha)
+🌐 [LinkedIn Profile](www.linkedin.com/in/burningtone-mwatha)
+
 
 
