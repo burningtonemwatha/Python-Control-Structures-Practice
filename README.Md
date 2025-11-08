@@ -56,5 +56,8 @@ Each file is written as a **stand-alone script**, meaning you can run them indiv
 
 **Burningtone Mwatha**
 BSc Computer Science — The Co-operative University of Kenya
+
 📧 [burningtonemwatha1@gmail.com](mailto:burningtonemwatha1@gmail.com)
+
 🌐 [GitHub Profile](https://github.com/burningtonemwatha)
+
